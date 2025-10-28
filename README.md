@@ -1,3 +1,4 @@
+HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -215,3 +216,7 @@ export default tseslint.config([
   },
 ])
 ```
+
+# Algorithm-Visualizer
+A web-based Algorithm Visualizer that helps users understand and interact with sorting and searching algorithms through real-time visual animations and an engaging learning interface.
+ b182bdc441ebefa2a7dd48e25635cc8280d7a45e
